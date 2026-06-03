@@ -1,0 +1,8 @@
+Age_group,Age,Weight_kg,OF_CYP3A4,OF_UGT2B7,CL_allometric,CL_ontogeny,t_half_h,Naive_dose_mg,Allo_dose_mg_kg,Ont_dose_mg_kg,Ont_vs_naive_pct,Safety_flag
+Neonate (0-1m),1m,3.5,3.4,20.5,6.6614,0.9096,0.13,0.35,0.2115,0.0289,28.9,⚠ Reduce dose (immature enzymes)
+Infant (1-12m),6m,7,57.6,86.6,11.2032,8.4005,0.03,0.7,0.1778,0.1333,133.3,✓ Standard mg/kg
+Toddler (1-2y),1.5y,11.5,87.3,96.4,16.257,15.0843,0.03,1.15,0.1571,0.1457,145.7,✓ Standard mg/kg
+Child (2-6y),3y,14,95.1,98.5,18.8414,18.301,0.03,1.4,0.1495,0.1452,145.2,✓ Standard mg/kg
+Child (6-12y),8y,25,98.8,99.6,29.1053,28.892,0.03,2.5,0.1294,0.1284,128.4,✓ Standard mg/kg
+Adolescent (>12y),14y,50,99.5,99.8,48.9491,48.7859,0.04,5,0.1088,0.1084,108.4,✓ Standard mg/kg
+Adult,35y,70,99.9,99.9,63,62.9422,0.04,7,0.1,0.0999,99.9,✓ Standard mg/kg
